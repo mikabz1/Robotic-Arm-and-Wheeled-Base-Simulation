@@ -51,3 +51,5 @@ This project serves multiple purposes:
 
 3. **Future Endeavors**: This project sets the stage for more complex robotics projects, including obstacle avoidance algorithms, sensor integration, and advanced control systems.
 
+![](rviz.gif)
+
